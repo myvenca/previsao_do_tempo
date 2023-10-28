@@ -1,4 +1,4 @@
-const key = "1b2010f66e84f581a001e648ac5b9b28"
+
 //Essa funcao toda busca que ele realizar
 //ele vai colocar os dados na tela!
 function colocarDadosNaTela(dados) {
